@@ -1,0 +1,41 @@
+_repo: Marta_61860
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Zamenhof, L. L. (Ludwik Lejzer)
+    aliases:
+    - Zamenhof, Ludovic Lazarus
+    - Zamenhof, Lazaro Ludoviko
+    - Zamenhof, Ludwik Lazar
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '3934'
+    url: http://www.gutenberg.org/2009/agents/3934
+    wikipedia:
+    - https://eo.wikipedia.org/wiki/L._L._Zamenhof
+    - https://en.wikipedia.org/wiki/L._L._Zamenhof
+creator:
+  author:
+    agent_name: Orzeszkowa, Eliza
+    alias: Orzeszkowa, E. (Eliza)
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '9367'
+    url: http://www.gutenberg.org/2009/agents/9367
+    wikipedia: https://en.wikipedia.org/wiki/Eliza_Orzeszkowa
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2020-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61860'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Employment -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Marta
+url: http://www.gutenberg.org/ebooks/61860
