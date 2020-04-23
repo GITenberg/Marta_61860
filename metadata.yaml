@@ -1,5 +1,5 @@
 _repo: Marta_61860
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Zamenhof, L. L. (Ludwik Lejzer)
@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://eo.wikipedia.org/wiki/L._L._Zamenhof
     - https://en.wikipedia.org/wiki/L._L._Zamenhof
+covers:
+- cover_type: archival
+  image_path: 61860-h/images/cover.jpg
 creator:
   author:
     agent_name: Orzeszkowa, Eliza
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9367
     wikipedia: https://en.wikipedia.org/wiki/Eliza_Orzeszkowa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61860#Marta
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2020-04-17'
 gutenberg_type: Text
